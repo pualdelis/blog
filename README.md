@@ -1,0 +1,2 @@
+# blog
+pualdelis technolog blog 
